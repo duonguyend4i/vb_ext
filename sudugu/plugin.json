@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "name": "速读谷 - Sudugu 🐵",
+    "author": "duonguyend4i",
+    "version": 1,
+    "source": "https://www.sudugu.com",
+    "regexp": "https://www.sudugu.com/\\d+/",
+    "description": "Đọc truyện trên trang sudugu",
+    "locale": "zh_CN",
+    "language": "javascript",
+    "type": "chinese_novel"
+  },
+  "script": {
+    "home": "home.js",
+    "search": "search.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}

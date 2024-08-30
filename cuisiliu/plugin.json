@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "name": "垂絲柳-Cuisiliu 🐵",
+    "author": "duonguyend4i",
+    "version": 1,
+    "source": "https://www.cuisiliu.net",
+    "regexp": "(www.|m.)?(cuisiliu.net)/book/.*?$",
+    "description": "Đọc truyện trên trang cuisiliu.net -  Search bằng browser",
+    "locale": "zh_CN",
+    "language": "javascript",
+    "type": "chinese_novel"
+  },
+  "script": {
+    "home": "home.js",
+    "detail": "detail.js",
+    "toc": "toc.js",
+    "genre": "genre.js",
+    "chap": "chap.js"
+  }
+}
