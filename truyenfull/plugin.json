@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "name": "Truyện Full 🐵",
+    "author": "duonguyend4i",
+    "version": 7,
+    "source": "https://truyenfull.io",
+    "regexp": "(www.)?truyenfull.(vn|net|io)/[^/]+/?$",
+    "description": "Đọc truyện trên trang Truyện Full",
+    "locale": "vi_VN",
+    "type": "novel",
+    "language": "javascript"
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "page": "page.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}

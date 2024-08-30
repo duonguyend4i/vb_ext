@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "author": "duonguyend4i 🐵",
+    "description": ""
+  },
+  "data": [
+    {
+      "name": "Đạo Quán 🐵",
+      "author": "duonguyend4i",
+      "path": "https://raw.githubusercontent.com/duonguyend4i/vb_ext/main/daoquan/plugin.zip",
+      "version": 1,
+      "source": "http://daoquan.vn",
+      "icon": "https://raw.githubusercontent.com/duonguyend4i/vb_ext/main/daoquan/icon.png",
+      "description": "Đọc truyện trên trang daoquan.vn",
+      "type": "novel",
+      "locale": "vi-VN"
+    },
+    {
+      "name": "Truyện Full 🐵",
+      "author": "duonguyend4i",
+      "path": "https://raw.githubusercontent.com/duonguyend4i/vb_ext/main/truyenfull/plugin.zip",
+      "version": 7,
+      "source": "https://truyenfull.io",
+      "icon": "https://raw.githubusercontent.com/duonguyend4i/vb_ext/main/truyenfull/icon.png",
+      "description": "Đọc truyện trên trang Truyện Full",
+      "type": "novel",
+      "locale": "vi-VN"
+    },
+    {
+      "name": "Truyện QQ 🐵",
+      "author": "duonguyend4i",
+      "path": "https://raw.githubusercontent.com/duonguyend4i/vb_ext/main/truyenqq/plugin.zip",
+      "version": 19,
+      "type": "comic",
+      "locale": "vi-VN",
+      "source": "https://truyenqqto.com",
+      "icon": "https://raw.githubusercontent.com/duonguyend4i/vb_ext/main/truyenqq/icon.png",
+      "description": "Đọc truyện trên trang Truyện QQ"
+    },
+    {
+      "name": "Cứu Truyện 🐵",
+      "author": "duonguyend4i",
+      "path": "https://raw.githubusercontent.com/duonguyend4i/vb_ext/main/cuutruyen/plugin.zip",
+      "version": 4,
+      "source": "https://nettrom.com",
+      "icon": "https://raw.githubusercontent.com/duonguyend4i/vb_ext/main/cuutruyen/icon.png",
+      "description": "Đọc truyện trên trang Cứu Truyện",
+      "type": "comic",
+      "locale": "vi-VN"
+    },
+    {
+      "name": "速读谷-Sudugu 🐵",
+      "author": "duonguyend4i",
+      "path": "https://raw.githubusercontent.com/duonguyend4i/vb_ext/main/sudugu/plugin.zip",
+      "version": 1,
+      "source": "https://www.sudugu.com",
+      "icon": "https://raw.githubusercontent.com/duonguyend4i/vb_ext/main/sudugu/icon.png",
+      "description": "Đọc truyện trên trang sudugu.",
+      "type": "chinese_novel",
+      "locale": "zh-CN"
+    },
+    {
+      "name": "垂絲柳-Cuisiliu 🐵",
+      "author": "duonguyend4i",
+      "path": "https://raw.githubusercontent.com/duonguyend4i/vb_ext/main/cuisiliu/plugin.zip",
+      "version": 1,
+      "source": "https://www.cuisiliu.net",
+      "icon": "https://raw.githubusercontent.com/duonguyend4i/vb_ext/main/cuisiliu/icon.png",
+      "description": "Đọc truyện trên trang cuisiliu.net - Search bằng browser",
+      "type": "chinese_novel",
+      "locale": "zh-CN"
+    },
+    {
+      "name": "5in1 🐵",
+      "author": "duonguyend4i",
+      "path": "https://raw.githubusercontent.com/duonguyend4i/vb_ext/main/5in1/plugin.zip",
+      "version": 24,
+      "source": "https://sangtacviet.vip",
+      "icon": "https://raw.githubusercontent.com/duonguyend4i/vb_ext/main/5in1/icon.png",
+      "description": "(5 trong 1) hỗ trợ đọc các web fanqie, qidian(chương free), 69shu, uukanshu, ptwxz, qimao (lên sangtacviet chỉ để lấy thông tin truyện với đọc bình luận cho tiện thôi) <br> nếu lỗi khi đọc mấy nguồn 69shu, uukanshu thì xoá mấy ext đó đi, dùng cái này cũng được",
+      "type": "chinese_novel",
+      "locale": "zh_CN"
+    }
+  ]
+}
