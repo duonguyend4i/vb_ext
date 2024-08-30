@@ -1,3 +1,9 @@
+# Sao chép extension
+
+- Tạo một tệp với tên `plugin.json` vào thư mục của extensions, cấu trúc của tệp có dạng như sau
+```json
+https://raw.githubusercontent.com/duonguyend4i/vb_ext/main/plugin.json
+```
 # Cấu trúc của extension
 
 ## Thông tin extension
